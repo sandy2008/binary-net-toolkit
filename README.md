@@ -5,3 +5,7 @@
 
 ## Inference Part
 - C
+
+## Examples
+- AlexNet
+- Convolutional Neural Networks for Sentence Classification
