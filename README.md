@@ -9,3 +9,5 @@
 ## Examples
 - AlexNet
 - Convolutional Neural Networks for Sentence Classification
+
+![alt text](layer_parallel.png)
